@@ -1,0 +1,7 @@
+{
+  "csrf": "api/index/csrf&_mall_id=1",
+  "login": "api/passport/admin-login",
+  "mall": {
+    "list": "api/admin/mall/index"
+  }
+}

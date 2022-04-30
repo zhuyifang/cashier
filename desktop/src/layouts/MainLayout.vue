@@ -1,116 +1,72 @@
 <template>
-  <q-layout view="lHh Lpr lFf">
-    <q-header elevated>
-      <q-toolbar>
-        <q-btn
-          flat
-          dense
-          round
-          icon="menu"
-          aria-label="Menu"
-          @click="toggleLeftDrawer"
-        />
-
-        <q-toolbar-title>
-          Quasar App
-        </q-toolbar-title>
-
-        <div>Quasar v{{ $q.version }}</div>
-      </q-toolbar>
-    </q-header>
-
-    <q-drawer
-      v-model="leftDrawerOpen"
-      show-if-above
-      bordered
-    >
-      <q-list>
-        <q-item-label
-          header
-        >
-          Essential Links
-        </q-item-label>
-
-        <EssentialLink
-          v-for="link in essentialLinks"
-          :key="link.title"
-          v-bind="link"
-        />
-      </q-list>
-    </q-drawer>
+  <q-layout view="hHh lpR fFf">
+    <div class="text-right fixed-top q-pa-sm" style="z-index:1001">
+      <q-btn dense flat round icon="lens" size="8.5px" color="red"/>
+      <q-btn dense flat round icon="lens" size="8.5px" color="yellow"/>
+      <q-btn dense flat round icon="lens" size="8.5px" color="green"/>
+    </div>
 
     <q-page-container>
-      <router-view />
+      <q-splitter
+        v-model="splitterModel"
+        class="main-splitter"
+        style="height: 100vh"
+      >
+        <template v-slot:before>
+          <div class="text-center absolute-top text-positive q-py-md" style="z-index: 1">
+            <q-icon size="32px" name="broadcast_on_home"/>
+            <div>零售宝</div>
+            <div class="text-grey-4" style="font-size: 26px">22:22</div>
+            <div class="text-grey-4" style="font-size: 10px">11月12日 星期五</div>
+            <q-separator color="grey-9 q-my-sm"/>
+          </div>
+          <q-tabs
+            v-model="tab"
+            vertical
+            class="text-grey-3 bg-grey-10 text-center"
+            style="padding-top: 131px"
+            active-bg-color="white"
+            active-color="blue"
+            indicator-color="blue"
+          >
+            <q-route-tab icon="point_of_sale" label="收银台" to="/workbench" exact/>
+            <q-route-tab icon="receipt" label="单据" to="/order" exact/>
+            <q-route-tab icon="assignment_ind" label="会员" to="/member" exact/>
+            <q-route-tab icon="local_shipping" label="入库" to="/inStork" exact/>
+            <q-route-tab icon="delivery_dining" label="外卖" to="/takeout" exact/>
+            <q-route-tab icon="restart_alt" label="交班" to="/exchange" exact/>
+            <q-route-tab class="absolute-bottom" icon="settings" label="设置" to="/setting" exact/>
+          </q-tabs>
+        </template>
+        <template v-slot:after>
+          <router-view/>
+        </template>
+      </q-splitter>
     </q-page-container>
   </q-layout>
 </template>
 
 <script>
-import { defineComponent, ref } from 'vue'
-import EssentialLink from 'components/EssentialLink.vue'
+import {defineComponent, ref} from 'vue'
 
-const linksList = [
-  {
-    title: 'Docs',
-    caption: 'quasar.dev',
-    icon: 'school',
-    link: 'https://quasar.dev'
-  },
-  {
-    title: 'Github',
-    caption: 'github.com/quasarframework',
-    icon: 'code',
-    link: 'https://github.com/quasarframework'
-  },
-  {
-    title: 'Discord Chat Channel',
-    caption: 'chat.quasar.dev',
-    icon: 'chat',
-    link: 'https://chat.quasar.dev'
-  },
-  {
-    title: 'Forum',
-    caption: 'forum.quasar.dev',
-    icon: 'record_voice_over',
-    link: 'https://forum.quasar.dev'
-  },
-  {
-    title: 'Twitter',
-    caption: '@quasarframework',
-    icon: 'rss_feed',
-    link: 'https://twitter.quasar.dev'
-  },
-  {
-    title: 'Facebook',
-    caption: '@QuasarFramework',
-    icon: 'public',
-    link: 'https://facebook.quasar.dev'
-  },
-  {
-    title: 'Quasar Awesome',
-    caption: 'Community Quasar projects',
-    icon: 'favorite',
-    link: 'https://awesome.quasar.dev'
-  }
-]
 
 export default defineComponent({
   name: 'MainLayout',
 
-  components: {
-    EssentialLink
-  },
+  components: {},
 
-  setup () {
-    const leftDrawerOpen = ref(false)
-
+  setup() {
     return {
-      essentialLinks: linksList,
-      leftDrawerOpen,
-      toggleLeftDrawer () {
-        leftDrawerOpen.value = !leftDrawerOpen.value
-      }
+      tab: ref('mails'),
+      splitterModel: ref(20)
     }
   }
 })
 </script>
+<style lang="scss" scoped>
+.main-splitter {
+  ::v-deep(.q-splitter__before) {
+    width: 80px !important;
+  }
+}
+</style>
