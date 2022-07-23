@@ -1,0 +1,98 @@
+@charset "UTF-8";
+.text-center.data-v-c727f1ae {
+  text-align: center;
+}
+.font-weight.data-v-c727f1ae {
+  font-weight: bold;
+}
+.page-width.data-v-c727f1ae {
+  width: 100%;
+}
+.goods-hover-class.data-v-c727f1ae {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-c727f1ae {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-c727f1ae {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-c727f1ae {
+  width: 100%;
+}
+.u-hover-class.data-v-c727f1ae {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-c727f1ae {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.need-height.data-v-c727f1ae {
+  height: 180rpx;
+}
+.top.data-v-c727f1ae {
+  height: 180rpx;
+  width: 100%;
+  position: fixed;
+  background-color: #f7f7f7;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+.top image.data-v-c727f1ae {
+  width: 100%;
+  height: 160rpx;
+}
+.detail-name.data-v-c727f1ae {
+  position: absolute;
+  left: 24rpx;
+  top: 36rpx;
+  font-size: 26rpx;
+  color: #fff;
+}
+.detail-number.data-v-c727f1ae {
+  position: absolute;
+  bottom: 36rpx;
+  left: 24rpx;
+  font-size: 48rpx;
+  color: white;
+  font-family: 'DIN';
+}
+.detail-number text.data-v-c727f1ae {
+  font-size: 30rpx;
+}
+.list.data-v-c727f1ae {
+  height: 139rpx;
+  width: 100%;
+  padding: 36rpx 24rpx;
+  background-color: white;
+  border-bottom: 1rpx #e2e2e2 solid;
+}
+.list-left.data-v-c727f1ae {
+  color: #666;
+  font-size: 24rpx;
+  float: left;
+  width: 60%;
+}
+.name.data-v-c727f1ae {
+  font-size: 30rpx;
+  color: #353535;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.list-right.data-v-c727f1ae {
+  color: #353535;
+  font-size: 34rpx;
+  float: right;
+  line-height: 68rpx;
+}
+

@@ -1,0 +1,56 @@
+@charset "UTF-8";
+.text-center.data-v-c8e4d94c {
+  text-align: center;
+}
+.font-weight.data-v-c8e4d94c {
+  font-weight: bold;
+}
+.page-width.data-v-c8e4d94c {
+  width: 100%;
+}
+.goods-hover-class.data-v-c8e4d94c {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-c8e4d94c {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-c8e4d94c {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-c8e4d94c {
+  width: 100%;
+}
+.u-hover-class.data-v-c8e4d94c {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-c8e4d94c {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-merchant-guarantee.data-v-c8e4d94c {
+  min-height: 56rpx;
+  width: 750rpx;
+  background-color: white;
+}
+.app-merchant-guarantee .app-item.data-v-c8e4d94c {
+  display: inline-block;
+  margin: 10rpx 26rpx;
+}
+.app-merchant-guarantee .app-item .app-image.data-v-c8e4d94c {
+  width: 24rpx;
+  height: 24rpx;
+  margin: 0 6rpx 0 0;
+}
+.app-merchant-guarantee .app-item .app-title.data-v-c8e4d94c {
+  font-size: 21rpx;
+  color: #737373;
+}
+

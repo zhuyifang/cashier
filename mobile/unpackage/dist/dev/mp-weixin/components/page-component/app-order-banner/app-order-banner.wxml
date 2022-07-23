@@ -1,0 +1,1 @@
+<view class="app-order-banner order-status-box data-v-40691c0c" style="{{'background-image:'+('url('+newPicUrl+')')+';'+('background-size:'+('100% 100%')+';')}}"><view class="text data-v-40691c0c">{{title}}</view><block wx:if="{{hint}}"><view class="hint data-v-40691c0c">{{hint}}</view></block></view>

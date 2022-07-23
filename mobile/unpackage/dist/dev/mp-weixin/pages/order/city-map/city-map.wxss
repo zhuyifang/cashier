@@ -1,0 +1,120 @@
+@charset "UTF-8";
+.text-center.data-v-fb76bef6 {
+  text-align: center;
+}
+.font-weight.data-v-fb76bef6 {
+  font-weight: bold;
+}
+.page-width.data-v-fb76bef6 {
+  width: 100%;
+}
+.goods-hover-class.data-v-fb76bef6 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-fb76bef6 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-fb76bef6 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-fb76bef6 {
+  width: 100%;
+}
+.u-hover-class.data-v-fb76bef6 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-fb76bef6 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.top-box.data-v-fb76bef6 {
+  background-color: #ffffff;
+  border-radius: 16rpx;
+  margin: 20rpx 24rpx;
+  padding: 24rpx;
+}
+.top-box .goods-image.data-v-fb76bef6 {
+  width: 68rpx;
+  height: 68rpx;
+  margin-right: 16rpx;
+}
+.top-box .goods-name.data-v-fb76bef6 {
+  font-size: 24rpx;
+  color: #353535;
+  margin-bottom: 15rpx;
+}
+.top-box .goods-num.data-v-fb76bef6 {
+  color: #999999;
+  font-size: 20rpx;
+}
+.city-box.data-v-fb76bef6 {
+  margin: 24rpx;
+  background-color: #ffffff;
+  padding: 30rpx;
+  border-radius: 16rpx;
+}
+.city-box .status-label.data-v-fb76bef6 {
+  font-weight: 800;
+  font-size: 32rpx;
+  color: #353535;
+}
+.city-box .time-label.data-v-fb76bef6 {
+  font-size: 28rpx;
+  color: #353535;
+  margin-top: 21rpx;
+}
+.city-box .corporation-box.data-v-fb76bef6 {
+  margin-top: 40rpx;
+  margin-bottom: 20rpx;
+}
+.city-box .corporation-box .corporation-icon.data-v-fb76bef6 {
+  width: 40rpx;
+  height: 40rpx;
+  margin-right: 14rpx;
+}
+.city-box .corporation-box .corporation-name.data-v-fb76bef6 {
+  font-size: 28rpx;
+  color: #666666;
+}
+.city-service.data-v-fb76bef6 {
+  width: 100%;
+  margin-bottom: 10rpx;
+}
+.city-service .await-man.data-v-fb76bef6 {
+  margin-left: 12rpx;
+  font-size: 28rpx;
+  color: #666666;
+}
+.city-service .info-box.data-v-fb76bef6 {
+  margin-left: 12rpx;
+}
+.city-service .info-box .info-label.data-v-fb76bef6 {
+  margin-bottom: 10rpx;
+  color: #999999;
+  font-size: 28rpx;
+}
+.city-service .info-box .info-man.data-v-fb76bef6 {
+  font-size: 28rpx;
+  color: #666666;
+}
+.city-service .head.data-v-fb76bef6 {
+  width: 75rpx;
+  height: 75rpx;
+}
+.city-service .icon-box.data-v-fb76bef6 {
+  padding: 0 30rpx;
+  border-left: 1rpx solid #f7f7f7;
+}
+.city-service .icon-box .icon.data-v-fb76bef6 {
+  width: 45rpx;
+  height: 45rpx;
+}
+

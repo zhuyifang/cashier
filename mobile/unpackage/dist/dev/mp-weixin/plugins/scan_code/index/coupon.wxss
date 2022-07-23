@@ -1,0 +1,143 @@
+@charset "UTF-8";
+.text-center {
+  text-align: center;
+}
+.font-weight {
+  font-weight: bold;
+}
+.page-width {
+  width: 100%;
+}
+.goods-hover-class {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width {
+  width: 100%;
+}
+.u-hover-class {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+page {
+  background: #fff;
+}
+
+@charset "UTF-8";
+.text-center.data-v-50f4b200 {
+  text-align: center;
+}
+.font-weight.data-v-50f4b200 {
+  font-weight: bold;
+}
+.page-width.data-v-50f4b200 {
+  width: 100%;
+}
+.goods-hover-class.data-v-50f4b200 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-50f4b200 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-50f4b200 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-50f4b200 {
+  width: 100%;
+}
+.u-hover-class.data-v-50f4b200 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-50f4b200 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.coupon-head-btn.data-v-50f4b200 {
+  padding: 24rpx;
+}
+.coupon-box.data-v-50f4b200 {
+  padding: 24rpx 34rpx 0 34rpx;
+}
+.coupon-box .box-left.data-v-50f4b200 {
+  height: 152rpx;
+  position: relative;
+}
+.coupon-box .box-left .box-discount.data-v-50f4b200 {
+  text-align: center;
+  color: #fff;
+  width: 194rpx;
+}
+.coupon-box .box-left .box-use.data-v-50f4b200 {
+  font-size: 20rpx;
+  padding-top: 16rpx;
+}
+.coupon-item-container.data-v-50f4b200 {
+  margin-bottom: 24rpx;
+}
+.coupon-item-container.data-v-50f4b200:last-child {
+  margin-bottom: 0;
+}
+.coupon-item.data-v-50f4b200 {
+  position: relative;
+  overflow: hidden;
+}
+.coupon-bg.data-v-50f4b200 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+.coupon-right.data-v-50f4b200 {
+  position: relative;
+}
+.coupon-right > view.data-v-50f4b200 {
+  padding: 0 30rpx;
+  overflow: hidden;
+  color: #666666;
+  font-size: 20rpx;
+}
+.coupon-right .icon-coupon-select.data-v-50f4b200 {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 70rpx;
+  width: 70rpx;
+  z-index: 1;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAABGCAMAAABG8BK2AAAAV1BMVEUAAAD/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUT/RUQgicH3AAAAHHRSTlMAr7El4NK3DfDFSRsH+eWnoJOIc1rr1nxSOBZnlG7UqgAAAVBJREFUWMOs00tygzAQRdEbCQwG4r9jx9H+1xkXdqoHPRB03p3A6NSTKBjbIgj4UDAaB43DXBIwij1oHDQOGgcrCZjQnv2XMWHnc8CYsNNmHnaoqLOd4NuYoNMCDI5Z+b12HcDdGEJ7MuAOtdq5MDcaE3EOvNsYs9658m7aO2bFPQ+8ujTFM/U929382PDqWCwWO583fuaXEb+YpU7KMPXPl6PdrsUyp7kAcH6OmkypMG71hnfXcgLgUDxT37M7ZuZOpQO4Fc8sO9cZgDw/7sUxi509f+XiYrnTPnjVVJiK02R/vZ6p/xf9CAylxtT3dHR9lak7W04lwHinDzDmWHGGVGU0DqA4FxoHjYPGwRW6Z5DsQeOgcdA4rC3VmfgeNA4aB42DxiFWcoxkDxoHjYPGgXhJw2B70DhoHDQOGod/lxwT34PGQeMg6Xes1DGGHQB8Cu0hscLLBAAAAABJRU5ErkJggg==);
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+.coupon-right .box-time.data-v-50f4b200 {
+  padding: 12rpx 0;
+}
+.coupon-right .coupon-name.data-v-50f4b200 {
+  color: #353535;
+  font-size: 32rpx;
+}
+

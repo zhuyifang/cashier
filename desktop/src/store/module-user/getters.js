@@ -1,12 +1,12 @@
-export function userId (state) {
+export function id (state) {
   return state.id
 }
-export function userNickname (state) {
+export function nickname (state) {
   return state.nickname
 }
-export function userAccessToken (state) {
+export function accessToken (state) {
   return state.accessToken
 }
-export function userMobile (state) {
+export function mobile (state) {
   return state.mobile
 }

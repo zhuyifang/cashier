@@ -1,0 +1,111 @@
+@charset "UTF-8";
+.text-center.data-v-a35624ee {
+  text-align: center;
+}
+.font-weight.data-v-a35624ee {
+  font-weight: bold;
+}
+.page-width.data-v-a35624ee {
+  width: 100%;
+}
+.goods-hover-class.data-v-a35624ee {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-a35624ee {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-a35624ee {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-a35624ee {
+  width: 100%;
+}
+.u-hover-class.data-v-a35624ee {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-a35624ee {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.poster.data-v-a35624ee {
+  height: 750rpx;
+  width: 422rpx;
+  margin: 46rpx auto 48rpx;
+  background-color: whtie;
+  display: block;
+  box-shadow: 0 0 20rpx rgba(0, 0, 0, 0.15);
+}
+.poster image.data-v-a35624ee {
+  height: 750rpx;
+  width: 422rpx;
+}
+.mycanvas.data-v-a35624ee {
+  height: 1165rpx;
+  width: 750rpx;
+}
+.share-title.data-v-a35624ee {
+  font-size: 30rpx;
+  color: #999;
+  text-align: center;
+  margin-bottom: 20rpx;
+}
+.share-bg.data-v-a35624ee {
+  height: 144rpx;
+  text-align: center;
+  position: relative;
+  width: 100%;
+}
+.cross-left.data-v-a35624ee {
+  height: 144rpx;
+  width: 80rpx;
+}
+.cross-right.data-v-a35624ee {
+  height: 144rpx;
+  width: 80rpx;
+}
+.cross-left image.data-v-a35624ee, .cross-right image.data-v-a35624ee {
+  height: 26rpx;
+  width: 26rpx;
+  display: block;
+  margin-top: 59rpx;
+  margin-left: 37rpx;
+}
+.share-bg .bg-item.data-v-a35624ee {
+  margin-right: 20rpx;
+}
+.share-bg .bg-item.active image.data-v-a35624ee {
+  border: 4rpx solid #ff4544;
+}
+.pic_list.data-v-a35624ee {
+  height: 144rpx;
+  width: 540rpx;
+  margin: 0 10rpx;
+}
+.bg-item.data-v-a35624ee, .bg-item image.data-v-a35624ee {
+  height: 144rpx;
+  width: 120rpx;
+}
+.share-btn.data-v-a35624ee {
+  height: 80rpx;
+  width: 500rpx;
+  margin: 40rpx auto 20rpx;
+  color: white;
+  font-size: 32rpx;
+  background-color: #ff4544;
+  border-radius: 40rpx;
+  line-height: 80rpx;
+}
+.share-tip.data-v-a35624ee {
+  font-size: 24rpx;
+  color: #999;
+  text-align: center;
+}
+

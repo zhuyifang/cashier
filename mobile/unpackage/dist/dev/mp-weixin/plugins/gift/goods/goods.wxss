@@ -1,0 +1,99 @@
+@charset "UTF-8";
+.text-center {
+  text-align: center;
+}
+.font-weight {
+  font-weight: bold;
+}
+.page-width {
+  width: 100%;
+}
+.goods-hover-class {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width {
+  width: 100%;
+}
+.u-hover-class {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+/* 商品页面 */
+.goods {
+  background-color: #f7f7f7;
+  /*加入会员*/
+  /*详情 评价*/
+  /*超级会员卡*/
+  /*商品服务*/
+  /*规格选择*/
+  /*空格*/
+}
+.goods .goods-subtitle {
+  padding: 0 24rpx;
+  font-size: 24rpx;
+  background-color: #ffffff;
+  color: #999999;
+}
+.goods .join-member {
+  background-color: #ffffff;
+  padding: 0 24rpx;
+}
+.goods .vip-card {
+  padding: 0 24rpx 24rpx 24rpx;
+  background-color: #ffffff;
+}
+.goods .commodity-service {
+  margin: 20rpx 0;
+}
+.goods .show-attr {
+  margin-bottom: 20rpx;
+}
+.goods .u-bottom-height-0 {
+  height: 110rpx;
+}
+.goods .u-bottom-height-1 {
+  height: 190rpx;
+}
+.goods .u-bottom-fixed {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1602;
+  background-color: #ffffff;
+}
+.u-coupon {
+  margin-top: 20rpx;
+}
+/*求礼物*/
+.bd-share {
+  width: 96rpx;
+  height: 96rpx;
+  border: none;
+  padding: 0;
+  background-color: transparent;
+  border-radius: 0;
+  margin: 0;
+}
+.bd-share image {
+  width: 100%;
+  height: 100%;
+}
+

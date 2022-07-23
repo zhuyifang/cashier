@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "提交完成",
+  "usingComponents": {
+    "app-related-suggestion-product": "/components/page-component/app-related-suggestion-product/app-related-suggestion-product",
+    "app-order-share-modal": "/components/page-component/app-order-share-modal/app-order-share-modal"
+  }
+}

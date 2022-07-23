@@ -1,0 +1,98 @@
+@charset "UTF-8";
+.text-center.data-v-fb08bb90 {
+  text-align: center;
+}
+.font-weight.data-v-fb08bb90 {
+  font-weight: bold;
+}
+.page-width.data-v-fb08bb90 {
+  width: 100%;
+}
+.goods-hover-class.data-v-fb08bb90 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-fb08bb90 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-fb08bb90 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-fb08bb90 {
+  width: 100%;
+}
+.u-hover-class.data-v-fb08bb90 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-fb08bb90 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.style-seven.data-v-fb08bb90 {
+  width: 750rpx;
+}
+.right.data-v-fb08bb90 {
+  width: 546rpx;
+  background-color: white;
+}
+.advert_pic.data-v-fb08bb90 {
+  width: 500rpx;
+  height: 184rpx;
+  margin: 20rpx 24rpx 40rpx 24rpx;
+}
+.item.data-v-fb08bb90 {
+  width: 546rpx;
+}
+.top.data-v-fb08bb90 {
+  width: 100%;
+  padding-left: 24rpx;
+  margin-bottom: 40rpx;
+}
+.name.data-v-fb08bb90 {
+  font-size: 28rpx;
+  color: #353535;
+  width: 40%;
+}
+.icon.data-v-fb08bb90 {
+  position: absolute;
+  right: 24rpx;
+}
+.more-text.data-v-fb08bb90 {
+  font-size: 26rpx;
+  color: #999999;
+  margin-left: 16rpx;
+}
+.icon-pic.data-v-fb08bb90 {
+  width: 13rpx;
+  height: 22rpx;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAWCAMAAADD5o0oAAAARVBMVEUAAACZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkBVNYgAAAAFnRSTlMAgtiokR0V5s+9dmdhUklA8LW0nZx9Nlin2AAAAE9JREFUGNNlz0cOwDAIRFHXOInTy9z/qF7yJVjxJARMuGKwyqKKChT1Qasy1PVAmxZo1zyZDiXoVKqmquaAMS7gan+06+ajiPC6cC52+60f0acDStr+zywAAAAASUVORK5CYII=);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  margin-left: 24rpx;
+}
+.pic_url.data-v-fb08bb90 {
+  width: 104rpx;
+  height: 104rpx;
+}
+.text.data-v-fb08bb90 {
+  font-size: 26rpx;
+  line-height: 1;
+  color: #353535;
+  margin-top: 8rpx;
+  text-align: center;
+}
+.item-child.data-v-fb08bb90 {
+  display: inline-block;
+  height: 138rpx;
+  width: 182rpx;
+  margin-bottom: 40rpx;
+  text-align: center;
+}
+

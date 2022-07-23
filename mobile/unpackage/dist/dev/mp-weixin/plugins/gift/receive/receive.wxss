@@ -1,0 +1,45 @@
+@charset "UTF-8";
+.text-center.data-v-fafce216 {
+  text-align: center;
+}
+.font-weight.data-v-fafce216 {
+  font-weight: bold;
+}
+.page-width.data-v-fafce216 {
+  width: 100%;
+}
+.goods-hover-class.data-v-fafce216 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-fafce216 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-fafce216 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-fafce216 {
+  width: 100%;
+}
+.u-hover-class.data-v-fafce216 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-fafce216 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+/* 首页 */
+.receive.data-v-fafce216 {
+  position: absolute;
+  min-height: 100%;
+  width: 100%;
+  overflow: auto;
+}
+

@@ -3,10 +3,14 @@
 </template>
 
 <script>
+import 'default-passive-events'
 import {defineComponent} from 'vue'
 
 export default defineComponent({
-  name: 'App'
+  name: 'App',
+  created(){
+    window.$$ = this
+  },
 })
 </script>
 <style>
@@ -31,4 +35,5 @@ button,a,input,textarea,select{
 ::-webkit-scrollbar-thumb {
   background-color: #272d44;
 }
+
 </style>

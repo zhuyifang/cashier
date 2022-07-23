@@ -1,0 +1,207 @@
+@charset "UTF-8";
+.text-center.data-v-d5e7d85a {
+  text-align: center;
+}
+.font-weight.data-v-d5e7d85a {
+  font-weight: bold;
+}
+.page-width.data-v-d5e7d85a {
+  width: 100%;
+}
+.goods-hover-class.data-v-d5e7d85a {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-d5e7d85a {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-d5e7d85a {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-d5e7d85a {
+  width: 100%;
+}
+.u-hover-class.data-v-d5e7d85a {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-d5e7d85a {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.refund-detail-box.data-v-d5e7d85a {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+.refund-detail-box .form-box .platform.data-v-d5e7d85a {
+  background: #fff;
+  border-bottom: 1rpx solid #e2e2e2;
+  padding: 20rpx 20rpx;
+  margin-top: 20rpx;
+}
+.refund-detail-box .form-box .select-box.data-v-d5e7d85a {
+  text-align: right;
+  width: 100%;
+}
+.refund-detail-box .form-box .select-box .select-label.data-v-d5e7d85a {
+  font-size: 31rpx;
+  color: #999999;
+}
+.refund-detail-box .form-box .select-box .select-label-active.data-v-d5e7d85a {
+  color: #353535;
+}
+.refund-detail-box .form-box .select-box .arrow-right.data-v-d5e7d85a {
+  width: 12rpx;
+  height: 22rpx;
+  margin-left: 16rpx;
+}
+.refund-detail-box .btn-box.data-v-d5e7d85a {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background: #f7f7f7;
+  padding: 20rpx;
+}
+.refund-detail-box .btn-box .btn.data-v-d5e7d85a {
+  border-radius: 40rpx;
+  height: 80rpx;
+  width: 100%;
+  background-color: #ff4544;
+  padding: 24rpx 0;
+  color: #ffffff;
+  font-size: 32rpx;
+}
+.express-box.data-v-d5e7d85a {
+  background: #fff;
+  padding: 32rpx 24rpx;
+  margin-top: 20rpx;
+}
+.express-label.data-v-d5e7d85a {
+  margin-bottom: 10rpx;
+  color: #999999;
+  font-size: 28rpx;
+}
+.goods-box.data-v-d5e7d85a {
+  background: #fff;
+  padding: 32rpx 24rpx;
+}
+.preferential-box.data-v-d5e7d85a {
+  background: #fff;
+  padding: 32rpx 24rpx;
+  margin-top: 20rpx;
+}
+.preferential-box .picture.data-v-d5e7d85a {
+  width: 160rpx;
+  height: 160rpx;
+  margin-right: 14rpx;
+  margin-bottom: 14rpx;
+}
+.preferential-box .item.data-v-d5e7d85a {
+  margin: 12rpx 15rpx 12rpx 0;
+  align-items: flex-start;
+}
+.preferential-box .image-label.data-v-d5e7d85a {
+  margin: 12rpx 0 24rpx;
+}
+.preferential-box .common-text.data-v-d5e7d85a {
+  word-break: break-all;
+}
+.preferential-box .label.data-v-d5e7d85a {
+  margin-right: 15rpx;
+}
+.preferential-box .merchant-remark.data-v-d5e7d85a {
+  color: #ff4544;
+}
+.refund-address-box.data-v-d5e7d85a {
+  background-color: #fff;
+  padding: 32rpx 24rpx;
+  margin-top: 20rpx;
+}
+.refund-address-box .express.data-v-d5e7d85a {
+  margin: 15rpx 0 5rpx;
+}
+.refund-address-box .remark.data-v-d5e7d85a {
+  margin-top: 10rpx;
+  padding-top: 5rpx;
+  border-top: 1rpx solid #e2e2e2;
+}
+.refund-express-box.data-v-d5e7d85a {
+  background-color: #fff;
+  padding: 32rpx 24rpx;
+  margin-top: 20rpx;
+}
+.refund-express-box .label.data-v-d5e7d85a {
+  margin-right: 25rpx;
+}
+.refund-express-box .express_no.data-v-d5e7d85a {
+  border-top: 1rpx solid #e2e2e2;
+  margin-top: 15rpx;
+  padding-top: 15rpx;
+}
+.refund-express-box .right-icon.data-v-d5e7d85a {
+  width: 12rpx;
+  height: 22rpx;
+  margin-right: 25rpx;
+}
+.refund-price.data-v-d5e7d85a {
+  color: #ff4544;
+}
+.detail-btn.data-v-d5e7d85a {
+  border: 1px solid #bbbbbb;
+  border-radius: 30rpx;
+  padding: 10rpx 30rpx;
+  margin-left: 15rpx;
+}
+.dialog.data-v-d5e7d85a {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  bottom: 96rpx;
+  left: 0;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+.picker-list.data-v-d5e7d85a {
+  background-color: #fff;
+  padding-top: 20rpx;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+.picker-header.data-v-d5e7d85a {
+  padding: 0 24rpx;
+  color: #446dfd;
+  font-size: 32rpx;
+}
+.get.data-v-d5e7d85a {
+  width: 160rpx;
+  height: 48rpx;
+  line-height: 48rpx;
+  text-align: center;
+  border: 1rpx solid #446dfd;
+  border-radius: 24rpx;
+  position: absolute;
+  top: 20rpx;
+  right: 24rpx;
+  display: block;
+  color: #446dfd;
+}
+.pick.data-v-d5e7d85a {
+  width: 100%;
+  height: 440rpx;
+}
+.pick-view.data-v-d5e7d85a {
+  line-height: 72rpx;
+  text-align: center;
+  color: #446dfd;
+  font-size: 32rpx;
+}
+

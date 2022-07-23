@@ -1,0 +1,216 @@
+@charset "UTF-8";
+.text-center.data-v-956ffdcc {
+  text-align: center;
+}
+.font-weight.data-v-956ffdcc {
+  font-weight: bold;
+}
+.page-width.data-v-956ffdcc {
+  width: 100%;
+}
+.goods-hover-class.data-v-956ffdcc {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-956ffdcc {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-956ffdcc {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-956ffdcc {
+  width: 100%;
+}
+.u-hover-class.data-v-956ffdcc {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-956ffdcc {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-good-shop-recommendation.data-v-956ffdcc {
+  width: 750rpx;
+}
+.app-good-shop-recommendation .distance.data-v-956ffdcc {
+  align-self: flex-start;
+  padding-top: 36rpx;
+  font-size: 24rpx;
+  color: #999999;
+  float: right;
+  padding-right: 50rpx;
+}
+.app-good-shop-recommendation .app-top-title.data-v-956ffdcc {
+  width: 750rpx;
+  height: 80rpx;
+  border-bottom: 1rpx solid #e2e2e2;
+  background-color: #ffffff;
+}
+.app-good-shop-recommendation .app-top-title .icon.data-v-956ffdcc {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.app-good-shop-recommendation .app-top-title .app-left.data-v-956ffdcc {
+  height: 80rpx;
+}
+.app-good-shop-recommendation .app-top-title .app-left .icon.data-v-956ffdcc {
+  width: 46rpx;
+  height: 46rpx;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAbFBMVEUAAAD/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDH/iDEuxXHDAAAAI3RSTlMA+dGDEFfIZSU3CO6uky2ZG+a4p4x5XhUF38JMb0C+RT2e2c+vPfIAAAHQSURBVDjLbVPXtoQgDAQUe3cta9k2//+P12RVsueaB8QwJGQyUdKSMACbWRJ1bb6ngSD3vPwBaG+4wrxSgE84JKCf/zEWKCsZFggvMN2vZwb6X0+034tuQV0HeUH7GIh+QAEa+ixg26N6MBLTI6WaM9Q22sLZO7Lv1UWA7pz+hmncHQ1KTliLUqDZFTiXwWtbNSpR2sSBVgd64r2traDhBm9bU62EpdiWEOXpaNFTzocEZagoXiMcs1IVWgkqiaRVXHxTpBF3CTLw6bHZ6ej4TRMGWbBhOm9OAFx8SB5XS8jhZucCSB+pc63QCYXD6EBv5j/S6FiRYwddcDZZSwh+T6yBPAxzAISJfuWT4tvwwdt2pN3q21GkLl2OuDsix9bGR5PXxTEeo2XxVJKn6gNL5a2n4nwmS4p6AWFUcehu3mNGDyDrC98v+mzbVXvHLH+1PrVvsJs550ljZG5fYoYN6js+vvPE8JiMZySmJqCyiuN/KF7EWcnENP24i72ibtTfsHkNslb5kc2N3skkaTjVBkBqShsdyf0cn0QN0EcHBsKU+7FgfVLewZSFpxq81T97YNK1G8RJDpgcdcTHvgDMeAVK0LifCb66tDl2+9WKgz+NYCk+G/yftgAAAABJRU5ErkJggg==);
+  margin-left: 24rpx;
+}
+.app-good-shop-recommendation .app-top-title .app-left text.data-v-956ffdcc {
+  font-size: 26rpx;
+  color: #ff8831;
+  margin-left: 16rpx;
+}
+.app-good-shop-recommendation .app-top-title .app-right.data-v-956ffdcc {
+  height: 80rpx;
+}
+.app-good-shop-recommendation .app-top-title .app-right .icon.data-v-956ffdcc {
+  width: 12rpx;
+  height: 22rpx;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAWCAMAAADD5o0oAAAARVBMVEUAAACZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZmZkBVNYgAAAAFnRSTlMAgtiokR0V5s+9dmdhUklA8LW0nZx9Nlin2AAAAE9JREFUGNNlz0cOwDAIRFHXOInTy9z/qF7yJVjxJARMuGKwyqKKChT1Qasy1PVAmxZo1zyZDiXoVKqmquaAMS7gan+06+ajiPC6cC52+60f0acDStr+zywAAAAASUVORK5CYII=);
+  margin-right: 24rpx;
+}
+.app-good-shop-recommendation .app-top-title .app-right text.data-v-956ffdcc {
+  font-size: 26rpx;
+  color: #999999;
+  margin-right: 12rpx;
+}
+.app-good-shop-recommendation .app-content.data-v-956ffdcc {
+  width: 750rpx;
+  padding: 12rpx 0;
+}
+.app-good-shop-recommendation .app-content .app-scroll.data-v-956ffdcc {
+  width: 750rpx;
+  padding-left: 16rpx;
+  white-space: nowrap;
+  height: 287rpx;
+}
+.app-good-shop-recommendation .app-content .app-scroll .app-item.data-v-956ffdcc {
+  display: inline-block;
+  width: 224rpx;
+  height: 288rpx;
+  margin: 0 8rpx;
+  border-radius: 16rpx;
+}
+.app-good-shop-recommendation .app-content .app-scroll .app-item .app-image.data-v-956ffdcc {
+  width: 224rpx;
+  height: 224rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 16rpx;
+}
+.app-good-shop-recommendation .app-content .app-scroll .app-item .app-name.data-v-956ffdcc {
+  height: 64rpx;
+  width: 189rpx;
+  font-size: 24rpx;
+  color: #353535;
+  line-height: 64rpx;
+  display: inline-block;
+  overflow: hidden;
+  text-align: center;
+}
+.app-good-shop-recommendation .app-goods-shop.data-v-956ffdcc {
+  width: 750rpx;
+  padding: 20rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop.data-v-956ffdcc {
+  width: 710rpx;
+  padding: 0 24rpx;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  overflow: hidden;
+  border-radius: 16rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-top.data-v-956ffdcc {
+  width: 662rpx;
+  margin: 24rpx 0;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-top .app-image.data-v-956ffdcc {
+  width: 100rpx;
+  height: 100rpx;
+  border-radius: 8rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-top .app-title.data-v-956ffdcc {
+  margin-left: 24rpx;
+  margin-top: 12rpx;
+  width: 370rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-top .app-title .app-name.data-v-956ffdcc {
+  font-size: 28rpx;
+  color: #353535;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-top .app-title .app-number-title.data-v-956ffdcc {
+  margin-top: 12rpx;
+  color: #999999;
+  font-size: 24rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-top .app-title .app-number-title .app-sell.data-v-956ffdcc {
+  margin-left: 32rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-top .app-button-jump.data-v-956ffdcc {
+  float: right;
+  margin-right: 24rpx;
+  width: 144rpx;
+  height: 64rpx;
+  margin-top: 18rpx;
+  margin-bottom: 18rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-top .app-button-jump .app-button.data-v-956ffdcc {
+  width: 144rpx;
+  height: 64rpx;
+  text-align: center;
+  border: 1rpx solid #cccccc;
+  font-size: 26rpx;
+  color: #666666;
+  line-height: 64rpx;
+  border-radius: 40rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-bottom.data-v-956ffdcc {
+  height: 233rpx;
+  width: 662rpx;
+  padding-bottom: 23rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-bottom .app-scroll.data-v-956ffdcc {
+  height: 210rpx;
+  width: 662rpx;
+  white-space: nowrap;
+  margin-bottom: 23rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-bottom .app-scroll .app-item.data-v-956ffdcc {
+  /*background-color: red;*/
+  display: inline-block;
+  width: 210rpx;
+  height: 210rpx;
+  margin-left: 8rpx;
+  margin-right: 8rpx;
+  position: relative;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-bottom .app-scroll .app-item .app-image.data-v-956ffdcc {
+  width: 210rpx;
+  height: 210rpx;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop .app-bottom .app-scroll .app-item .app-price.data-v-956ffdcc {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 210rpx;
+  font-size: 28rpx;
+  height: 50rpx;
+  text-align: center;
+  background-color: rgba(245, 245, 246, 0.5);
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop.data-v-956ffdcc:first-of-type {
+  margin-top: 0;
+}
+.app-good-shop-recommendation .app-goods-shop .app-shop.data-v-956ffdcc:last-of-type {
+  margin-bottom: 0;
+}
+

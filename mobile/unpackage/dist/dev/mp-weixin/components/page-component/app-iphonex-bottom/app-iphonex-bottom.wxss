@@ -1,0 +1,45 @@
+@charset "UTF-8";
+.text-center.data-v-ff15a78c {
+  text-align: center;
+}
+.font-weight.data-v-ff15a78c {
+  font-weight: bold;
+}
+.page-width.data-v-ff15a78c {
+  width: 100%;
+}
+.goods-hover-class.data-v-ff15a78c {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-ff15a78c {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-ff15a78c {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-ff15a78c {
+  width: 100%;
+}
+.u-hover-class.data-v-ff15a78c {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-ff15a78c {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-iphone-bottom.data-v-ff15a78c {
+  background-color: white;
+  width: 100%;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+}
+

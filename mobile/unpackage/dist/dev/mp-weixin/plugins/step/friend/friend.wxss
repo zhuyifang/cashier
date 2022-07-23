@@ -1,0 +1,128 @@
+@charset "UTF-8";
+.text-center.data-v-c578d2ee {
+  text-align: center;
+}
+.font-weight.data-v-c578d2ee {
+  font-weight: bold;
+}
+.page-width.data-v-c578d2ee {
+  width: 100%;
+}
+.goods-hover-class.data-v-c578d2ee {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-c578d2ee {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-c578d2ee {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-c578d2ee {
+  width: 100%;
+}
+.u-hover-class.data-v-c578d2ee {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-c578d2ee {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.top.data-v-c578d2ee {
+  margin: 24rpx 24rpx 20rpx;
+  background-color: #fff;
+  height: 200rpx;
+  position: relative;
+  color: #999999;
+  padding: 50rpx 0;
+  font-size: 24rpx;
+  border-radius: 16rpx;
+}
+.title-right.data-v-c578d2ee {
+  float: right;
+}
+.top-num.data-v-c578d2ee {
+  font-size: 48rpx;
+  color: #ff9d1e;
+  font-family: 'DIN';
+  margin-bottom: 5rpx;
+}
+.line.data-v-c578d2ee {
+  position: absolute;
+  top: 50rpx;
+  left: 50%;
+  height: 100rpx;
+  width: 2rpx;
+  background-color: #e2e2e2;
+}
+.top-item.data-v-c578d2ee {
+  width: 50%;
+  float: left;
+  text-align: center;
+}
+.list.data-v-c578d2ee {
+  background-color: white;
+  padding: 32rpx 32rpx 16rpx;
+  border-radius: 16rpx;
+  margin: 0 24rpx 24rpx;
+}
+.list-title.data-v-c578d2ee {
+  font-size: 38rpx;
+  color: #353535;
+  margin-bottom: 38rpx;
+}
+.list-item.data-v-c578d2ee {
+  padding-bottom: 38rpx;
+  height: 88rpx;
+}
+.list-item .user-avatar.data-v-c578d2ee {
+  height: 56rpx;
+  width: 56rpx;
+  margin-right: 24rpx;
+  float: left;
+}
+.user-avatar image.data-v-c578d2ee {
+  height: 100%;
+  width: 100%;
+  border-radius: 28rpx;
+}
+.name.data-v-c578d2ee {
+  float: left;
+  font-size: 30rpx;
+  color: #353535;
+  width: 300rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  vertical-align: top;
+  height: 56rpx;
+  line-height: 56rpx;
+}
+.time.data-v-c578d2ee {
+  float: right;
+  font-size: 24rpx;
+  color: #999999;
+  vertical-align: top;
+  height: 56rpx;
+  line-height: 56rpx;
+}
+.no-friend.data-v-c578d2ee {
+  margin-top: 120rpx;
+  text-align: center;
+}
+.loading.data-v-c578d2ee {
+  font-size: 24rpx;
+  color: #353535;
+  text-align: center;
+  height: 80rpx;
+  line-height: 80rpx;
+  background-color: white;
+}
+

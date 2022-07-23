@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "评价完成",
+  "usingComponents": {
+    "u-ordinary-list": "/components/page-component/u-goods-list/u-ordinary-list"
+  }
+}

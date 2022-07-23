@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "N元任选",
+  "usingComponents": {
+    "app-no-goods": "/components/page-component/app-no-goods/app-no-goods"
+  }
+}

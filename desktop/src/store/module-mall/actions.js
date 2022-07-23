@@ -1,4 +1,3 @@
-
-export function updateAction(context, {id, name}) {
-  context.commit('mall/updateMutation', {id, name})
+export function updateAction(context, {id, name, setting}) {
+  context.commit('mall/updateMutation', {id, name, setting})
 }

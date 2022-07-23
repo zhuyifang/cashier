@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "app-poster-image": "/components/page-component/app-goods-poster/app-poster-image",
+    "app-poster-price": "/components/page-component/app-goods-poster/app-poster-price"
+  }
+}

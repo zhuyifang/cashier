@@ -10,33 +10,41 @@ import {LocalStorage} from "quasar";
 // "export default () => {}" function below (which runs individually
 // for each client)
 const http = axios.create({
-  baseURL: 'http://cashier.qicuo.com/web/index.php?r=',
   headers: {
     'X-App-Platform': 'mobile',
     'X-Requested-With': 'XMLHttpRequest'
   }
 })
-http.interceptors.request.use(config=>{
+http.interceptors.request.use(config => {
   let user = LocalStorage.getItem('user')
-  if(user && user.accessToken){
-    config.headers['x-access-token'] = user.accessToken
+  if (user && user.accessToken) {
+    config.headers['X-Access-Token'] = user.accessToken
+  }
+  if (!config.url.startsWith('http')) {
+    config.url = 'http://cashier.qicuo.com/web/index.php?r=' + config.url
   }
   return config
-},err=>{
+}, err => {
   return Promise.reject(err)
 })
 
 const formHttp = axios.create({
-  baseURL: 'http://cashier.qicuo.com/web/index.php?r=',
   headers: {
     'X-Requested-With': 'XMLHttpRequest',
     'content-type': 'application/x-www-form-urlencoded',
   }
 })
-formHttp.interceptors.request.use(config=>{
+formHttp.interceptors.request.use(config => {
+  let user = LocalStorage.getItem('user')
+  if (user && user.accessToken) {
+    config.headers['x-access-token'] = user.accessToken
+  }
   config.data = qs.stringify(config.data)
+  if (!config.url.startsWith('http')) {
+    config.url = 'http://cashier.qicuo.com/web/index.php?r=' + config.url
+  }
   return config
-},err=>{
+}, err => {
   return Promise.reject(err)
 })
 
@@ -54,4 +62,4 @@ export default boot(({app}) => {
   //       so you can easily perform requests against your app's API
 })
 
-export {http,formHttp}
+export {http, formHttp}

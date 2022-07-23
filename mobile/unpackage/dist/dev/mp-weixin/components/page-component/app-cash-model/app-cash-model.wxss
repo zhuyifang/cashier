@@ -1,0 +1,71 @@
+@charset "UTF-8";
+.text-center.data-v-3b49b0fa {
+  text-align: center;
+}
+.font-weight.data-v-3b49b0fa {
+  font-weight: bold;
+}
+.page-width.data-v-3b49b0fa {
+  width: 100%;
+}
+.goods-hover-class.data-v-3b49b0fa {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-3b49b0fa {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-3b49b0fa {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-3b49b0fa {
+  width: 100%;
+}
+.u-hover-class.data-v-3b49b0fa {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-3b49b0fa {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.cash-type-item.data-v-3b49b0fa {
+  height: 120rpx;
+  padding-left: 32rpx;
+}
+.cash-type-item > view.data-v-3b49b0fa {
+  height: 100%;
+}
+.cash-type-item .cash-type-box.data-v-3b49b0fa {
+  border-bottom: 1px solid #E2E2E2;
+  padding-right: 32rpx;
+}
+.cash-type-item .cash-type-box .radio-single.data-v-3b49b0fa {
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 50%;
+  background-color: white;
+  border: 1rpx solid #e2e2e2;
+}
+.cash-type-item .cash-type-box .radio-single-active.data-v-3b49b0fa {
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 50%;
+  background-repeat: repeat;
+  background-size: 100% 100%;
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAAdVBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////li2ZAAAAAJnRSTlMAPvEIIOndYFdNLhj1tJ2EaBrk1LyW98mkoX5xUiYRq4t2RDftW0bTqVgAAAFkSURBVDjLhdTbloIgAIXhLSgqnkotTbNzvP8jDswMASb631RrfYEiAmFHmkMchFk2BXHJiLCzIStTWKUlW4RRtcesrIq+YRFgoaCfwwM8VS4c4G1nwwpYkQaesFqlYUuxXv8HXw9sFLJfWGKzUcE6xHaNhAW8JWf97SZh4nWBEAn9v0oCRr0ulzerr6tF73MPIt2b6lXHzjeedORtfiLwOLXBrO3JMXkdsW8zxGe30uFE7XmPtpPsYpZKFNSMdzy7mx2f51LIi7petMtjwB2Rf6ZWspCSK5fAbYJ1Zwcp2/1Uy4+5A0cF01WSjul5nVJ0sDpJ6ayfmQ05h4kqeVx4WJRh9qKWQsT4LhYQjfvXYcRCrYTijs2Cl4Is3ISdUHD77Rr0ATCuu0ekITmvOV4LDVflkwkD1SJ7SqPZQXrbL7HLPf86mptkYbhm6bDPu3tmq2xsiXCgqe7jJw+zLOTP+FoLux/poz0hn4+zGgAAAABJRU5ErkJggg==);
+}
+.cash-type-item .icon.data-v-3b49b0fa {
+  height: 40rpx;
+  width: 40rpx;
+  margin-right: 16rpx;
+  display: flex;
+  justify-content: center;
+}
+

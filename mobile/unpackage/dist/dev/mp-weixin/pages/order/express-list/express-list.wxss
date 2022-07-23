@@ -1,0 +1,102 @@
+@charset "UTF-8";
+.text-center.data-v-712e65a5 {
+  text-align: center;
+}
+.font-weight.data-v-712e65a5 {
+  font-weight: bold;
+}
+.page-width.data-v-712e65a5 {
+  width: 100%;
+}
+.goods-hover-class.data-v-712e65a5 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-712e65a5 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-712e65a5 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-712e65a5 {
+  width: 100%;
+}
+.u-hover-class.data-v-712e65a5 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-712e65a5 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.top-box.data-v-712e65a5 {
+  width: 100%;
+  height: 100rpx;
+  background: #feeeee;
+  margin-bottom: 20rpx;
+}
+.top-box .title.data-v-712e65a5 {
+  margin-left: 24rpx;
+  color: #ff4544;
+  font-size: 28rpx;
+}
+.express-box.data-v-712e65a5 {
+  padding: 32rpx 24rpx 20rpx;
+  background: #ffffff;
+}
+.express-box .express-info.data-v-712e65a5 {
+  font-size: 28rpx;
+  margin-bottom: 20rpx;
+  color: #353535;
+}
+.express-box .express-info .item.data-v-712e65a5 {
+  margin-bottom: 24rpx;
+}
+.express-box .goods-num.data-v-712e65a5 {
+  font-size: 24rpx;
+  color: #999999;
+  margin: 20rpx 0;
+}
+.express-box .image.data-v-712e65a5 {
+  margin-right: 20rpx;
+  margin-top: 20rpx;
+}
+.city-service.data-v-712e65a5 {
+  width: 100%;
+  margin-bottom: 10rpx;
+}
+.city-service .await-man.data-v-712e65a5 {
+  margin-left: 12rpx;
+  font-size: 28rpx;
+  color: #666666;
+}
+.city-service .info-box.data-v-712e65a5 {
+  margin-left: 12rpx;
+}
+.city-service .info-box .info-label.data-v-712e65a5 {
+  margin-bottom: 10rpx;
+  color: #999999;
+  font-size: 28rpx;
+}
+.city-service .info-box .info.data-v-712e65a5 {
+  color: #666666;
+}
+.city-service .head.data-v-712e65a5 {
+  width: 75rpx;
+  height: 75rpx;
+}
+.city-service .icon-box.data-v-712e65a5 {
+  padding: 0 40rpx;
+  border-left: 2rpx solid #e2e2e2;
+}
+.city-service .icon-box .icon.data-v-712e65a5 {
+  width: 45rpx;
+  height: 45rpx;
+}
+

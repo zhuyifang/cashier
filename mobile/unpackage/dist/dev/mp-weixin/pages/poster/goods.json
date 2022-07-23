@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "生成商品海报",
+  "usingComponents": {
+    "app-goods-poster-one": "/components/page-component/app-goods-poster/app-goods-poster-one",
+    "app-goods-poster-two": "/components/page-component/app-goods-poster/app-goods-poster-two",
+    "app-goods-poster-three": "/components/page-component/app-goods-poster/app-goods-poster-three",
+    "app-goods-poster-four": "/components/page-component/app-goods-poster/app-goods-poster-four"
+  }
+}

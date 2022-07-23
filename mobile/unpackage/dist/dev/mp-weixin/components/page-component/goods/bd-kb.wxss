@@ -1,0 +1,104 @@
+@charset "UTF-8";
+.text-center.data-v-c9caa618 {
+  text-align: center;
+}
+.font-weight.data-v-c9caa618 {
+  font-weight: bold;
+}
+.page-width.data-v-c9caa618 {
+  width: 100%;
+}
+.goods-hover-class.data-v-c9caa618 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-c9caa618 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-c9caa618 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-c9caa618 {
+  width: 100%;
+}
+.u-hover-class.data-v-c9caa618 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-c9caa618 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.bd-kb.data-v-c9caa618 {
+  width: 702rpx;
+  border-radius: 15rpx;
+  padding: 20rpx;
+  background-color: #ffffff;
+  margin: 24rpx 24rpx 24rpx 24rpx;
+}
+.block.data-v-c9caa618 {
+  font-size: 26rpx;
+}
+.block view.data-v-c9caa618:first-child {
+  margin-right: 26rpx;
+  color: #999999;
+}
+.content.data-v-c9caa618 {
+  color: #353535;
+}
+.bd-icon.data-v-c9caa618 {
+  width: 12rpx;
+  height: 22rpx;
+}
+.bd-margin.data-v-c9caa618 {
+  margin-top: 20rpx;
+}
+.bd-margin.data-v-c9caa618:first-child {
+  margin-top: 0;
+}
+.model.data-v-c9caa618 {
+  background-color: #ffffff;
+  padding-bottom: 24rpx;
+}
+.f-scroll.data-v-c9caa618 {
+  max-height: 450rpx;
+}
+.f-image.data-v-c9caa618 {
+  width: 78rpx;
+  height: 78rpx;
+  padding: 24rpx;
+  position: absolute;
+  right: 0;
+}
+.f-img.data-v-c9caa618 {
+  width: 30rpx;
+  height: 30rpx;
+}
+.f-top.data-v-c9caa618 {
+  height: 105rpx;
+  position: relative;
+}
+.f-title.data-v-c9caa618 {
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+          transform: translateX(-50%);
+  max-width: 594rpx;
+}
+.p-title.data-v-c9caa618 {
+  font-size: 28rpx;
+  color: #000000;
+  text-align: center;
+}
+.f-scroll-content.data-v-c9caa618 {
+  padding: 0 24rpx;
+  font-size: 28rpx;
+  color: #353535;
+}
+

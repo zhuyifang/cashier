@@ -1,0 +1,105 @@
+@charset "UTF-8";
+.text-center.data-v-b77264c0 {
+  text-align: center;
+}
+.font-weight.data-v-b77264c0 {
+  font-weight: bold;
+}
+.page-width.data-v-b77264c0 {
+  width: 100%;
+}
+.goods-hover-class.data-v-b77264c0 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-b77264c0 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-b77264c0 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-b77264c0 {
+  width: 100%;
+}
+.u-hover-class.data-v-b77264c0 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-b77264c0 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.detail-vip.data-v-b77264c0 {
+  position: relative;
+  width: 750rpx;
+  height: 120rpx;
+  padding: 0 24rpx;
+  background-color: #ffffff;
+}
+.detail-vip .bg.data-v-b77264c0 {
+  width: 100%;
+  height: 120rpx;
+  border-radius: 14rpx;
+}
+.detail-vip .content.data-v-b77264c0 {
+  position: absolute;
+  top: 0;
+  left: 24rpx;
+  width: calc(100% - 48rpx);
+  height: 120rpx;
+}
+.detail-vip .item.data-v-b77264c0 {
+  height: 100%;
+}
+.detail-vip .item .icon.data-v-b77264c0 {
+  width: 60rpx;
+  height: 60rpx;
+  margin: 36rpx 0 0 26rpx;
+}
+.detail-vip .item .text.data-v-b77264c0 {
+  color: #e9ceb9;
+}
+.detail-vip .item .big.data-v-b77264c0 {
+  font-size: 26rpx;
+  line-height: 1;
+  margin-top: 30rpx;
+  margin-bottom: 12rpx;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  white-space: normal;
+}
+.detail-vip .item .small.data-v-b77264c0 {
+  font-size: 21rpx;
+  line-height: 1;
+}
+.detail-vip .item.icon.data-v-b77264c0 {
+  width: 115rpx;
+}
+.detail-vip .item.text.data-v-b77264c0 {
+  width: 417rpx;
+}
+.detail-vip .item.button.data-v-b77264c0 {
+  width: 170rpx;
+}
+.detail-vip .item.button .button.data-v-b77264c0 {
+  width: 120rpx;
+  height: 48rpx;
+  text-align: center;
+  border-radius: 24rpx;
+  background: linear-gradient(to right, #fbdec8, #f3be94);
+  font-size: 24rpx;
+  line-height: 2;
+  color: #342e25;
+  margin-top: 36rpx;
+}
+

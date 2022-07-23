@@ -27,10 +27,10 @@ export default route(function ({store/*, ssrContext*/}) {
   })
 
   Router.beforeEach((to, from, next) => {
-    if (to.meta.authUser === true && !store.getters['user/userId']) {
+    if (to.meta.authUser === true && !store.getters['user/id']) {
       return next('/login')
     }
-    if (to.meta.authMall === true && !store.getters['mall/mallId']) {
+    if (to.meta.authMall === true && !store.getters['mall/id']) {
       return next('/login')
     }
     next()

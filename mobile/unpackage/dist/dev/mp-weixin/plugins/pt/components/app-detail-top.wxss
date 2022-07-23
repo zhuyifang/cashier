@@ -1,0 +1,106 @@
+@charset "UTF-8";
+.text-center.data-v-affa1720 {
+  text-align: center;
+}
+.font-weight.data-v-affa1720 {
+  font-weight: bold;
+}
+.page-width.data-v-affa1720 {
+  width: 100%;
+}
+.goods-hover-class.data-v-affa1720 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-affa1720 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-affa1720 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-affa1720 {
+  width: 100%;
+}
+.u-hover-class.data-v-affa1720 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-affa1720 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-detail-top.data-v-affa1720 {
+  width: 750rpx;
+  height: 284rpx;
+  background-color: white;
+  padding: 24rpx 24rpx 0 24rpx;
+  box-sizing: border-box;
+}
+.app-detail-top .app-image.data-v-affa1720 {
+  width: 260rpx;
+  height: 260rpx;
+  margin-right: 24rpx;
+  background-color: pink;
+}
+.app-detail-top .app-content.data-v-affa1720 {
+  width: 418rpx;
+  height: 260rpx;
+  background-color: white;
+  padding-top: 8rpx;
+  box-sizing: border-box;
+}
+.app-detail-top .app-content .app-name.data-v-affa1720 {
+  font-size: 26rpx;
+  color: #353535;
+  line-height: 29rpx;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
+}
+.app-detail-top .app-content .app-price.data-v-affa1720 {
+  margin-top: 28rpx;
+}
+.app-detail-top .app-content .app-price > text.data-v-affa1720:before {
+  content: '￥';
+  font-size: 26rpx;
+}
+.app-detail-top .app-content .app-price .app-group-min-price.data-v-affa1720 {
+  font-size: 48rpx;
+}
+.app-detail-top .app-content .app-price .app-origin-price.data-v-affa1720 {
+  font-size: 24rpx;
+  color: #999999;
+  margin-left: 16rpx;
+  text-decoration: line-through;
+}
+.app-detail-top .app-content .app-attr.data-v-affa1720 {
+  margin-top: 16rpx;
+}
+.app-detail-top .app-content .app-attr > text.data-v-affa1720 {
+  display: inline-block;
+  height: 44rpx;
+  line-height: 44rpx;
+  font-size: 24rpx;
+  padding: 0 12rpx;
+  box-sizing: border-box;
+}
+.app-detail-top .app-content .app-attr .app-people-num.data-v-affa1720 {
+  margin-right: 6rpx;
+}
+.app-detail-top .app-content .app-icon.data-v-affa1720 {
+  position: absolute;
+  top: 112rpx;
+  right: 24rpx;
+  width: 140rpx;
+  height: 140rpx;
+}
+

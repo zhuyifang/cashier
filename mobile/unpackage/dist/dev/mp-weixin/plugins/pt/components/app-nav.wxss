@@ -1,0 +1,63 @@
+@charset "UTF-8";
+.text-center.data-v-cd220ac8 {
+  text-align: center;
+}
+.font-weight.data-v-cd220ac8 {
+  font-weight: bold;
+}
+.page-width.data-v-cd220ac8 {
+  width: 100%;
+}
+.goods-hover-class.data-v-cd220ac8 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-cd220ac8 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-cd220ac8 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-cd220ac8 {
+  width: 100%;
+}
+.u-hover-class.data-v-cd220ac8 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-cd220ac8 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-nav.data-v-cd220ac8 {
+  width: 750rpx;
+  height: 80rpx;
+  font-size: 26rpx;
+  color: #666666;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1000;
+  background-color: white;
+}
+.app-nav > view.data-v-cd220ac8 {
+  text-align: center;
+}
+.app-nav text.data-v-cd220ac8 {
+  display: inline-block;
+  height: 80rpx;
+  line-height: 76rpx;
+}
+.active.data-v-cd220ac8 {
+  border-bottom: 4rpx solid;
+}
+.no-active.data-v-cd220ac8 {
+  border-bottom: 4rpx solid #FFFFFF;
+}
+

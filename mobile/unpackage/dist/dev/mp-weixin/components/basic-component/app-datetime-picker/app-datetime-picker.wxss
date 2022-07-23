@@ -1,0 +1,44 @@
+@charset "UTF-8";
+.text-center.data-v-ab2e8806 {
+  text-align: center;
+}
+.font-weight.data-v-ab2e8806 {
+  font-weight: bold;
+}
+.page-width.data-v-ab2e8806 {
+  width: 100%;
+}
+.goods-hover-class.data-v-ab2e8806 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-ab2e8806 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-ab2e8806 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-ab2e8806 {
+  width: 100%;
+}
+.u-hover-class.data-v-ab2e8806 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-ab2e8806 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.text-align-left.data-v-ab2e8806 {
+  text-align: left;
+}
+.text-align-right.data-v-ab2e8806 {
+  text-align: right;
+}
+

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "周期购",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "app-search-for": "/components/page-component/app-search-for/app-search-for",
+    "app-product-list": "/plugins/weekly_buy/components/app-product-list",
+    "app-no-goods": "/components/page-component/app-no-goods/app-no-goods"
+  }
+}

@@ -1,0 +1,181 @@
+@charset "UTF-8";
+.text-center.data-v-b0f430b0 {
+  text-align: center;
+}
+.font-weight.data-v-b0f430b0 {
+  font-weight: bold;
+}
+.page-width.data-v-b0f430b0 {
+  width: 100%;
+}
+.goods-hover-class.data-v-b0f430b0 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-b0f430b0 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-b0f430b0 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-b0f430b0 {
+  width: 100%;
+}
+.u-hover-class.data-v-b0f430b0 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-b0f430b0 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.list-box.data-v-b0f430b0 {
+  padding: 20rpx;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.list-box .item.data-v-b0f430b0 {
+  width: 346rpx;
+  border-radius: 16rpx;
+  box-shadow: 0 0 10rpx 1rpx rgba(0, 0, 0, 0.1);
+  margin-bottom: 20rpx;
+  position: relative;
+  background: #ffffff;
+}
+.list-box .item .tag-box.data-v-b0f430b0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+}
+.list-box .item .tag-box-1 .text.data-v-b0f430b0 {
+  background: #22ac38;
+}
+.list-box .item .tag-box-1 .text-time.data-v-b0f430b0 {
+  padding: 12rpx 20rpx;
+  font-size: 24rpx;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.5);
+  margin-left: -20rpx;
+  border-bottom-right-radius: 30rpx;
+  border-top-right-radius: 30rpx;
+  padding-left: 30rpx;
+}
+.list-box .item .tag-box-2 .text.data-v-b0f430b0 {
+  background: #777777;
+}
+.list-box .item .tag-box-3 .text.data-v-b0f430b0 {
+  background: #ff4544;
+}
+.list-box .item .tag-box-3 .live-icon.data-v-b0f430b0 {
+  width: 24rpx;
+  height: 24rpx;
+  margin-right: 12rpx;
+}
+.list-box .item .round.data-v-b0f430b0 {
+  width: 15rpx;
+  height: 15rpx;
+  background: #fff;
+  border-radius: 50%;
+  margin-right: 12rpx;
+}
+.list-box .item .text.data-v-b0f430b0 {
+  padding: 12rpx 20rpx;
+  font-size: 26rpx;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 30rpx;
+  border-bottom-right-radius: 30rpx;
+  z-index: 10;
+  color: #fff;
+  display: flex;
+  align-items: center;
+}
+.list-box .item .anchor-img-box.data-v-b0f430b0 {
+  width: 346rpx;
+  height: 346rpx;
+  border-radius: 16rpx;
+  position: relative;
+  overflow: hidden;
+}
+.list-box .item .anchor-img-box .anchor-img.data-v-b0f430b0 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.list-box .item .anchor-img-box .play-icon.data-v-b0f430b0 {
+  width: 100rpx;
+  height: 100rpx;
+  position: absolute;
+  top: 123rpx;
+  left: 123rpx;
+}
+.list-box .item .anchor-img-box .subscribe-box.data-v-b0f430b0 {
+  position: absolute;
+  top: 153rpx;
+  left: 53rpx;
+}
+.list-box .item .room-info-box.data-v-b0f430b0 {
+  padding: 15rpx 28rpx;
+}
+.list-box .item .room-info-box .name.data-v-b0f430b0 {
+  font-size: 28rpx;
+  color: #353535;
+  white-space: nowrap;
+  -ms-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.list-box .item .room-info-box .user-info-box.data-v-b0f430b0 {
+  display: flex;
+  align-items: center;
+  margin-top: 12rpx;
+}
+.list-box .item .room-info-box .user-info-box .anchor-img.data-v-b0f430b0 {
+  width: 40rpx;
+  height: 40rpx;
+  border-radius: 50%;
+}
+.list-box .item .room-info-box .user-info-box .anchor-name.data-v-b0f430b0 {
+  width: 200rpx;
+  font-size: 24rpx;
+  color: #999999;
+  margin-left: 12rpx;
+  white-space: nowrap;
+  -ms-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+.empty-box.data-v-b0f430b0 {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.empty-box image.data-v-b0f430b0 {
+  width: 280rpx;
+  height: 280rpx;
+}
+.empty-box ._span.data-v-b0f430b0 {
+  margin-top: 15rpx;
+  color: #999;
+  font-size: 28rpx;
+}
+.hint.data-v-b0f430b0 {
+  font-size: 24rpx;
+  color: #999999;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 15rpx;
+}
+

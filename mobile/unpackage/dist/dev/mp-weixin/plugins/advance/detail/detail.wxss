@@ -1,0 +1,114 @@
+@charset "UTF-8";
+.text-center.data-v-eeda5896 {
+  text-align: center;
+}
+.font-weight.data-v-eeda5896 {
+  font-weight: bold;
+}
+.page-width.data-v-eeda5896 {
+  width: 100%;
+}
+.goods-hover-class.data-v-eeda5896 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-eeda5896 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-eeda5896 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-eeda5896 {
+  width: 100%;
+}
+.u-hover-class.data-v-eeda5896 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-eeda5896 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.goods-subtitle.data-v-eeda5896 {
+  padding: 0 20rpx;
+  font-size: 24rpx;
+  background-color: #ffffff;
+  color: #999999;
+  width: 702rpx;
+  margin: 0 24rpx;
+}
+.join-member.data-v-eeda5896 {
+  background-color: #ffffff;
+  padding: 0 24rpx;
+}
+.border-top.data-v-eeda5896 {
+  border-top: 1rpx solid #e2e2e2;
+}
+.zhe.data-v-eeda5896 {
+  height: 80rpx;
+  background-color: white;
+  width: 750rpx;
+  padding: 0 24rpx;
+  margin-top: 20rpx;
+}
+.zhe .symbol.data-v-eeda5896 {
+  width: 116rpx;
+  font-size: 20rpx;
+  color: #ff4544;
+  border: 1rpx solid #ff4544;
+  border-radius: 4rpx;
+  text-align: center;
+}
+.zhe .image.data-v-eeda5896 {
+  width: 12rpx;
+  height: 22rpx;
+}
+.zhe .content.data-v-eeda5896 {
+  width: 520rpx;
+  font-size: 21rpx;
+  color: #666666;
+  word-break: break-all;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  margin-left: 12rpx;
+}
+.detail-vip.data-v-eeda5896 {
+  padding: 20rpx;
+  background-color: #ffffff;
+  width: 702rpx;
+  margin: 0 24rpx 0 24rpx;
+  border-radius: 0 0 15rpx 15rpx;
+}
+.u-bottom-fixed.data-v-eeda5896 {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1601;
+  background-color: #ffffff;
+}
+.u-bottom-height-0.data-v-eeda5896 {
+  height: 110rpx;
+}
+.u-bottom-height-1.data-v-eeda5896 {
+  height: 190rpx;
+}
+.goods-margin.data-v-eeda5896 {
+  margin-top: 20rpx;
+}
+.bd-info-extra.data-v-eeda5896 {
+  padding: 0 20rpx;
+  background-color: #ffffff;
+  width: 702rpx;
+  margin: 0 24rpx;
+}
+

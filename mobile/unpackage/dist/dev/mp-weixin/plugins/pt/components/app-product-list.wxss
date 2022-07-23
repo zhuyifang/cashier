@@ -1,0 +1,119 @@
+@charset "UTF-8";
+.text-center.data-v-74f2a7da {
+  text-align: center;
+}
+.font-weight.data-v-74f2a7da {
+  font-weight: bold;
+}
+.page-width.data-v-74f2a7da {
+  width: 100%;
+}
+.goods-hover-class.data-v-74f2a7da {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-74f2a7da {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-74f2a7da {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-74f2a7da {
+  width: 100%;
+}
+.u-hover-class.data-v-74f2a7da {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-74f2a7da {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.bd-item-border.data-v-74f2a7da {
+  border-bottom: 1rpx solid #e2e2e2;
+}
+.out-dialog.data-v-74f2a7da {
+  width: 220rpx;
+  height: 220rpx;
+  position: absolute;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.out-dialog image.data-v-74f2a7da {
+  width: 220rpx;
+  height: 220rpx;
+}
+.bd-image.data-v-74f2a7da {
+  width: 220rpx;
+  height: 220rpx;
+  border-radius: 4rpx;
+}
+.bd-name.data-v-74f2a7da {
+  font-size: 28rpx;
+  color: #353535;
+  margin-top: 5rpx;
+}
+.bd-item.data-v-74f2a7da {
+  padding: 24rpx 24rpx 14rpx 24rpx;
+  background-color: #ffffff;
+  position: relative;
+}
+.bd-item .bd-content.data-v-74f2a7da {
+  width: 458rpx;
+  margin-left: 24rpx;
+  position: relative;
+}
+.bd-item .bd-content .app-group.data-v-74f2a7da {
+  font-size: 22rpx;
+  margin-bottom: 5rpx;
+  margin-top: -3rpx;
+}
+.bd-item .bd-content .app-price-button.data-v-74f2a7da {
+  position: absolute;
+  bottom: 10rpx;
+  width: 458rpx;
+  padding-top: 5rpx;
+}
+.bd-item .bd-content .app-price-button .price.data-v-74f2a7da {
+  width: 278rpx;
+  height: 105rpx;
+}
+.bd-item .bd-content .app-price-button .app-button.data-v-74f2a7da {
+  font-size: 26rpx;
+  color: #ffffff;
+  width: 180rpx;
+  height: 64rpx;
+  line-height: 64rpx;
+  text-align: center;
+  padding: 0 49rpx;
+  border-radius: 32rpx;
+}
+.bd-item .bd-content .app-price-button .default-button.data-v-74f2a7da {
+  background: linear-gradient(140deg, #ffa360, #ff5c5c);
+}
+.bd-item .bd-content .app-price-button .app-now-price.data-v-74f2a7da {
+  font-size: 30rpx;
+  margin-right: 12rpx;
+}
+.bd-item .bd-content .app-price-button .app-old-price.data-v-74f2a7da {
+  font-size: 25rpx;
+  color: #999999;
+  text-decoration: line-through;
+}
+.bd-item .bd-content .app-price-button .app-symbol.data-v-74f2a7da:before {
+  content: '￥';
+  font-size: 16rpx;
+}
+.member-price.data-v-74f2a7da {
+  margin-top: 5rpx;
+}
+.sup-vip.data-v-74f2a7da {
+  margin-top: 5rpx;
+}
+

@@ -1,0 +1,47 @@
+@charset "UTF-8";
+.text-center.data-v-f99f1b08 {
+  text-align: center;
+}
+.font-weight.data-v-f99f1b08 {
+  font-weight: bold;
+}
+.page-width.data-v-f99f1b08 {
+  width: 100%;
+}
+.goods-hover-class.data-v-f99f1b08 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-f99f1b08 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-f99f1b08 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-f99f1b08 {
+  width: 100%;
+}
+.u-hover-class.data-v-f99f1b08 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-f99f1b08 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-reservationList .app-nav.data-v-f99f1b08 {
+  position: fixed;
+  top: 0;
+  z-index: 1500;
+}
+.app-reservationList .app-reservation.data-v-f99f1b08 {
+  margin-top: 80rpx;
+  background-color: #f7f7f7;
+}
+

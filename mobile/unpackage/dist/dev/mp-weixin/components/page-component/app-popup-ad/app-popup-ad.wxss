@@ -1,0 +1,68 @@
+@charset "UTF-8";
+.text-center.data-v-3325accc {
+  text-align: center;
+}
+.font-weight.data-v-3325accc {
+  font-weight: bold;
+}
+.page-width.data-v-3325accc {
+  width: 100%;
+}
+.goods-hover-class.data-v-3325accc {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-3325accc {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-3325accc {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-3325accc {
+  width: 100%;
+}
+.u-hover-class.data-v-3325accc {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-3325accc {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.modal.data-v-3325accc {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  z-index: 1500;
+  background-color: rgba(0, 0, 0, 0.4);
+  -webkit-transform: translateY(100%);
+          transform: translateY(100%);
+  opacity: 0;
+}
+.modal.show.data-v-3325accc {
+  -webkit-transform: translateY(0%);
+          transform: translateY(0%);
+  opacity: 1;
+}
+.modal .body .app-popup-ad-wh.data-v-3325accc {
+  width: 650rpx;
+  height: 700rpx;
+}
+.modal .body .close.data-v-3325accc {
+  margin-top: 30rpx;
+  padding: 20rpx;
+}
+.modal .body .close image.data-v-3325accc {
+  width: 30rpx;
+  height: 30rpx;
+  display: block;
+}
+

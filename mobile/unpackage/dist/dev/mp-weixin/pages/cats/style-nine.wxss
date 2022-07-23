@@ -1,0 +1,62 @@
+@charset "UTF-8";
+.text-center.data-v-ac40d452 {
+  text-align: center;
+}
+.font-weight.data-v-ac40d452 {
+  font-weight: bold;
+}
+.page-width.data-v-ac40d452 {
+  width: 100%;
+}
+.goods-hover-class.data-v-ac40d452 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-ac40d452 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-ac40d452 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-ac40d452 {
+  width: 100%;
+}
+.u-hover-class.data-v-ac40d452 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-ac40d452 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.style-nine.data-v-ac40d452 {
+  background-color: white;
+}
+.right.data-v-ac40d452 {
+  width: 546rpx;
+  background-color: white;
+  padding-left: 24rpx;
+}
+.goods-list-right.data-v-ac40d452 {
+  width: 750rpx;
+  background-color: white;
+}
+.advert_pic.data-v-ac40d452 {
+  width: 500rpx;
+  height: 184rpx;
+  margin: 20rpx 24rpx 20rpx 0;
+}
+.item.data-v-ac40d452 {
+  padding: 20rpx 0;
+}
+.no-empty.data-v-ac40d452 {
+  width: 100%;
+  margin-top: 150rpx;
+}
+

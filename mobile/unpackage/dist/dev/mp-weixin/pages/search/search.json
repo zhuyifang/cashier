@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "搜索页",
+  "usingComponents": {
+    "u-ordinary-list": "/components/page-component/u-goods-list/u-ordinary-list",
+    "u-attr": "/components/page-component/app-attr/app-attr"
+  }
+}

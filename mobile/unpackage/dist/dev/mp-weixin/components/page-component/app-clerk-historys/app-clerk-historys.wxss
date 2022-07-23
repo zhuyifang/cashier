@@ -1,0 +1,118 @@
+@charset "UTF-8";
+.text-center.data-v-d4a6c20c {
+  text-align: center;
+}
+.font-weight.data-v-d4a6c20c {
+  font-weight: bold;
+}
+.page-width.data-v-d4a6c20c {
+  width: 100%;
+}
+.goods-hover-class.data-v-d4a6c20c {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-d4a6c20c {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-d4a6c20c {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-d4a6c20c {
+  width: 100%;
+}
+.u-hover-class.data-v-d4a6c20c {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-d4a6c20c {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-clerk-historys.data-v-d4a6c20c {
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.app-clerk-historys .history-box.data-v-d4a6c20c {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  max-height: 920rpx;
+  overflow: hidden;
+  border-top-left-radius: 16rpx;
+  border-top-right-radius: 16rpx;
+  background: #f7f7f7;
+}
+.app-clerk-historys .history-box .top-box.data-v-d4a6c20c {
+  width: 100%;
+  height: 120rpx;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background: #ffffff;
+}
+.app-clerk-historys .history-box .top-box .text.data-v-d4a6c20c {
+  font-size: 38rpx;
+  color: #353535;
+}
+.app-clerk-historys .history-box .top-box .close.data-v-d4a6c20c {
+  width: 35rpx;
+  height: 35rpx;
+  position: absolute;
+  right: 24rpx;
+  top: 24rpx;
+}
+.app-clerk-historys .history-box .scroll-view.data-v-d4a6c20c {
+  max-height: 800rpx;
+}
+.app-clerk-historys .history-box .scroll-view .item.data-v-d4a6c20c {
+  display: flex;
+  flex-direction: column;
+  margin-top: 18rpx;
+  background: #ffffff;
+  max-height: 800rpx;
+}
+.app-clerk-historys .history-box .scroll-view .item .title.data-v-d4a6c20c {
+  height: 80rpx;
+  display: flex;
+  align-items: center;
+  font-size: 28rpx;
+  color: #353535;
+  border-bottom: 1rpx solid #dcdcdc;
+  padding-left: 24rpx;
+}
+.app-clerk-historys .history-box .scroll-view .item .clerk-info.data-v-d4a6c20c {
+  display: flex;
+  flex-direction: column;
+  padding: 25rpx 24rpx;
+}
+.app-clerk-historys .history-box .scroll-view .item .clerk-info .list-item.data-v-d4a6c20c {
+  margin-bottom: 20rpx;
+  font-size: 28rpx;
+  color: #353535;
+}
+.app-clerk-historys .history-box .scroll-view .item .clerk-info .list-item.data-v-d4a6c20c:last-child {
+  margin-bottom: 0;
+}
+.app-clerk-historys .history-box .scroll-view .not-more.data-v-d4a6c20c {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #353535;
+  font-size: 28rpx;
+  padding: 20rpx 0;
+}
+

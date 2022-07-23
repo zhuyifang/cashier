@@ -1,0 +1,55 @@
+@charset "UTF-8";
+.text-center.data-v-315b3726 {
+  text-align: center;
+}
+.font-weight.data-v-315b3726 {
+  font-weight: bold;
+}
+.page-width.data-v-315b3726 {
+  width: 100%;
+}
+.goods-hover-class.data-v-315b3726 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-315b3726 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-315b3726 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-315b3726 {
+  width: 100%;
+}
+.u-hover-class.data-v-315b3726 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-315b3726 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-search.data-v-315b3726 {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1500;
+}
+.empty-search.data-v-315b3726 {
+  height: 88rpx;
+  width: 750rpx;
+  background: #f7f7f7;
+}
+.margin-fixed.data-v-315b3726 {
+  margin-top: 88rpx;
+}
+.app-top.data-v-315b3726 {
+  width: 750rpx;
+}
+

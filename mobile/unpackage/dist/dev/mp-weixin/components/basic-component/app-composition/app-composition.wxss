@@ -1,0 +1,174 @@
+@charset "UTF-8";
+.text-center.data-v-439fdd91 {
+  text-align: center;
+}
+.font-weight.data-v-439fdd91 {
+  font-weight: bold;
+}
+.page-width.data-v-439fdd91 {
+  width: 100%;
+}
+.goods-hover-class.data-v-439fdd91 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-439fdd91 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-439fdd91 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-439fdd91 {
+  width: 100%;
+}
+.u-hover-class.data-v-439fdd91 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-439fdd91 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-composition .app-composition-goods.data-v-439fdd91 {
+  width: 288rpx;
+  height: 140rpx;
+  flex-shrink: 0;
+  margin-right: 24rpx;
+  position: relative;
+}
+.app-composition .app-composition-goods.two image.data-v-439fdd91 {
+  position: absolute;
+  width: 140rpx;
+  height: 140rpx;
+  border-radius: 8rpx;
+  top: 0;
+}
+.app-composition .app-composition-goods.two image.data-v-439fdd91:first-of-type {
+  left: 0;
+}
+.app-composition .app-composition-goods.two image.data-v-439fdd91:last-of-type {
+  right: 0;
+}
+.app-composition .app-composition-goods.three image.data-v-439fdd91 {
+  position: absolute;
+  width: 140rpx;
+  height: 66rpx;
+  border-radius: 8rpx;
+}
+.app-composition .app-composition-goods.three image.data-v-439fdd91:first-of-type {
+  left: 0;
+  top: 0;
+  height: 140rpx;
+  width: 140rpx;
+}
+.app-composition .app-composition-goods.three image.data-v-439fdd91:nth-child(2) {
+  top: 0;
+  right: 0;
+}
+.app-composition .app-composition-goods.three image.data-v-439fdd91:last-of-type {
+  bottom: 0;
+  right: 0;
+}
+.app-composition .app-composition-goods.four image.data-v-439fdd91 {
+  position: absolute;
+  width: 66rpx;
+  height: 66rpx;
+  border-radius: 8rpx;
+}
+.app-composition .app-composition-goods.four image.data-v-439fdd91:first-of-type {
+  left: 0;
+  top: 0;
+  height: 140rpx;
+  width: 140rpx;
+}
+.app-composition .app-composition-goods.four image.data-v-439fdd91:nth-child(2) {
+  top: 0;
+  right: 0;
+  width: 140rpx;
+}
+.app-composition .app-composition-goods.four image.data-v-439fdd91:nth-child(3) {
+  right: 74rpx;
+  bottom: 0;
+}
+.app-composition .app-composition-goods.four image.data-v-439fdd91:last-of-type {
+  right: 0;
+  bottom: 0;
+}
+.app-composition .app-composition-goods.five image.data-v-439fdd91 {
+  position: absolute;
+  width: 66rpx;
+  height: 66rpx;
+  border-radius: 8rpx;
+}
+.app-composition .app-composition-goods.five image.data-v-439fdd91:first-of-type {
+  left: 0;
+  top: 0;
+  height: 140rpx;
+  width: 140rpx;
+}
+.app-composition .app-composition-goods.five image.data-v-439fdd91:nth-child(2) {
+  top: 0;
+  right: 74rpx;
+}
+.app-composition .app-composition-goods.five image.data-v-439fdd91:nth-child(3) {
+  right: 0;
+  top: 0;
+}
+.app-composition .app-composition-goods.five image.data-v-439fdd91:nth-child(4) {
+  right: 74rpx;
+  bottom: 0;
+}
+.app-composition .app-composition-goods.five image.data-v-439fdd91:last-of-type {
+  right: 0;
+  bottom: 0;
+}
+.app-composition .app-composition-right.data-v-439fdd91 {
+  width: 342rpx;
+}
+.app-composition .app-composition-info.data-v-439fdd91 {
+  height: 44rpx;
+  width: 342rpx;
+}
+.app-composition .app-composition-info .app-composition-type.data-v-439fdd91 {
+  font-size: 22rpx;
+  display: block;
+  margin: 0 16rpx 0 0;
+}
+.app-composition .app-composition-info .app-composition-name.data-v-439fdd91 {
+  height: 44rpx;
+  line-height: 44rpx;
+  width: 260rpx;
+  font-size: 28rpx;
+  color: #353535;
+}
+.app-composition .app-composition-info .app-composition-name.long-name.data-v-439fdd91 {
+  width: 342rpx;
+}
+.app-composition .app-composition-type.data-v-439fdd91 {
+  padding: 2rpx 12rpx;
+  flex-shrink: 0;
+  border: 2rpx solid;
+  border-radius: 20rpx;
+  margin: 14rpx 0 0;
+  font-size: 22rpx;
+  display: inline-block;
+}
+.app-composition .app-composition-price.data-v-439fdd91 {
+  color: #999999;
+  font-size: 24rpx;
+  margin: 14rpx 0 10rpx;
+}
+.app-composition .app-composition-price text.data-v-439fdd91 {
+  font-size: 28rpx;
+}
+.app-composition .app-composition-discount.data-v-439fdd91 {
+  color: #999999;
+  font-size: 24rpx;
+}
+

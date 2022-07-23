@@ -1,0 +1,176 @@
+@charset "UTF-8";
+.text-center {
+  text-align: center;
+}
+.font-weight {
+  font-weight: bold;
+}
+.page-width {
+  width: 100%;
+}
+.goods-hover-class {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width {
+  width: 100%;
+}
+.u-hover-class {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.app-class-item {
+  display: inline-block;
+  width: 158rpx;
+  line-height: 104rpx;
+  font-size: 26rpx;
+  text-align: center;
+  border-left: 2rpx solid transparent;
+}
+.app-recommended-product-list {
+  width: 750rpx;
+  height: 100%;
+}
+.app-recommended-product-list .app-classification {
+  width: 160rpx;
+  height: 100%;
+}
+.app-recommended-product-list .app-product {
+  height: 100%;
+  padding-left: 24rpx;
+  padding-top: 4rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item {
+  width: 566rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-class-name {
+  display: inline-block;
+  width: 566rpx;
+  padding-top: 40rpx;
+  padding-bottom: 36rpx;
+  font-size: 24rpx;
+  color: #666666;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item {
+  width: 554rpx;
+  border-radius: 16rpx;
+  position: relative;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item.have-bg {
+  background-color: #fff;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-tag-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 55rpx;
+  height: 55rpx;
+  z-index: 1000;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .out-dialog {
+  width: 160rpx;
+  height: 160rpx;
+  position: absolute;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .out-dialog image {
+  width: 160rpx;
+  height: 160rpx;
+  border-radius: 16rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-image {
+  width: 150rpx;
+  height: 150rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content {
+  width: 394rpx;
+  min-height: 160rpx;
+  padding: 0 21rpx 23rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-product-name {
+  font-size: 28rpx;
+  color: #353535;
+  padding-top: 15rpx;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  width: 370rpx;
+  margin-bottom: 10rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons {
+  width: 346rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons .app-price {
+  font-size: 28rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons .app-product-button {
+  display: inline-block;
+  padding: 0 20rpx;
+  height: 48rpx;
+  font-size: 28rpx;
+  color: #ffffff;
+  line-height: 48rpx;
+  border-radius: 0;
+  margin: 0;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons .app-button-fillet {
+  border-radius: 20rpx !important;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons .app-button-rounded-lines {
+  border-radius: 20rpx !important;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons .app-product-button-cart {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAkCAMAAADW3miqAAAAaVBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8G612AAAAInRSTlMAM7hHogo+HcgT4a1+9urXp52LhW5oJvC/lHT65mJPGMwszPdNwwAAAPZJREFUOMu91NtuhCAUheHfAwKO57POdKb1/R+yvUBqAsSmabqu3MkXsthG2X+QP0UvoYtLBNBdoTzvya471chrNEuyKJDe3u5JOMWBRpLYnxVxoIEhUKdCH6gluvvRjexANaLyo443+1ok73400lv0pPWjhJtFRaj5hDLI9PPkIcgtqnmVPqSQpUWzRgU3sGMLpsENWLSxBTdgUUvi30BzQgo9u6aUqBMqNQ8X3aGy6CsRY+pkQ+5nlOLNapBJk3jS/vILTqdoscM6ZcqDFkDkZogBXbmoIIu4mWEg+WBxUQxQH/cwxzqdOiGb73PFFJvHf/6JfQJWsolm2rxgvAAAAABJRU5ErkJggg==);
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-content .app-price-buttons .app-product-button-add {
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAMAAAC7IEhfAAAAaVBMVEUAAAD////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8G612AAAAInRSTlMAEwX67MjWaAikZuPOxHhZU0xDIRwR9aeah4YtLGqom5WpM5lfzQAAASxJREFUOMud1OlygyAYheHDJor7FqM2S7/7v8jSdFrFkMD0/f3MOCockJOam3VM03FtZkVOe5hXA3YNVe6F8sKBXmeFFEIWme4BfpHP8JMBdUm7yhpg1wMUGugSOpR0gBZ7eGqR3snTPUV72qBowRR5Uwyt+IMGLKEXJQzmF16RKnqZSjH9QMlwpjedMcoH1OjobR3MN8w5T97DhPPcwgo1BapRWTigJDeA3EoMBIWeQpB6yxaYMDSY0SALw8yyDxRhWFjGIMNQWsYhNuG2QQEeDaMfHf0y8Z9ngQ5DjTn6F8YeCu8xA56PWdzBxePg0iV8FXTk5WLyAWkKXdcsdgCiJ8UdqZvP3ZyRsgnzavaMOAzp5B/SyTPN+nmatfzn2G+ppVlHzse1WQ6f4Qv3jKh04cDoQgAAAABJRU5ErkJggg==);
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-border-all {
+  width: 554rpx;
+  border-radius: 10rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-product-border-all-item {
+  border: 1rpx solid #e2e2e2;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-item .app-button-icon {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 36rpx;
+  height: 36rpx;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-product-border {
+  border-bottom-color: #e2e2e2;
+}
+.app-recommended-product-list .app-product .app-product-class-item .app-margin-top {
+  margin-top: 24rpx;
+}
+.app-volume {
+  margin: 8rpx 0;
+  font-size: 22rpx;
+  color: #666666;
+}
+.bd-original-price {
+  color: #999999;
+  font-size: 22rpx;
+  text-decoration: line-through;
+  margin-left: 10rpx;
+}
+

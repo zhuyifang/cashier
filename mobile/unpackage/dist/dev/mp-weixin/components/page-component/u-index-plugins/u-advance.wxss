@@ -1,0 +1,104 @@
+@charset "UTF-8";
+.u-original-price.data-v-aa1cc95a {
+  font-size: 22rpx;
+  color: #999999;
+  text-decoration:line-through;
+}
+.u-price.data-v-aa1cc95a {
+  font-size: 26rpx;
+}
+.u-goods.data-v-aa1cc95a {
+  width: 260rpx;
+  margin-right: 5rpx;
+  padding: 0 20rpx 10rpx 20rpx;
+  background-color: #ffffff;
+}
+.u-cover.data-v-aa1cc95a {
+  width: 220rpx;
+  height: 220rpx;
+}
+.u-goods-name.data-v-aa1cc95a {
+  font-size: 25rpx;
+  color: #353535;
+  margin-top: 10rpx;
+}
+.u-margin.data-v-aa1cc95a {
+  margin-top: 5rpx;
+}
+.u-cover-box.data-v-aa1cc95a {
+  position: relative;
+  margin-top: 20rpx;
+  width: 220rpx;
+  height: 220rpx;
+}
+.u-out-dialog.data-v-aa1cc95a {
+  width: 220rpx;
+  height: 220rpx;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  background-color: rgba(0,0,0,.5);
+}
+.u-pic.data-v-aa1cc95a {
+  width: 220rpx;
+  height: 220rpx;
+}
+.u-price-box.data-v-aa1cc95a {
+  vertical-align:middle;
+}
+.text-center.data-v-aa1cc95a {
+  text-align: center;
+}
+.font-weight.data-v-aa1cc95a {
+  font-weight: bold;
+}
+.page-width.data-v-aa1cc95a {
+  width: 100%;
+}
+.goods-hover-class.data-v-aa1cc95a {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-aa1cc95a {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-aa1cc95a {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-aa1cc95a {
+  width: 100%;
+}
+.u-hover-class.data-v-aa1cc95a {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-aa1cc95a {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.u-icon.data-v-aa1cc95a {
+  width: 46rpx;
+  height: 46rpx;
+  margin-right: 16rpx;
+}
+.u-top.data-v-aa1cc95a {
+  font-size: 28rpx;
+  color: #ff4544;
+}
+.u-des-price.data-v-aa1cc95a {
+  display: inline-block;
+  font-size: 19rpx;
+  color: #ffffff;
+  border-radius: 7rpx;
+  padding: 0rpx 5rpx;
+  height: 25rpx;
+  line-height: 25rpx;
+}
+

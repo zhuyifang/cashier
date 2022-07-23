@@ -1,0 +1,57 @@
+@charset "UTF-8";
+.text-center.data-v-1dcac064 {
+  text-align: center;
+}
+.font-weight.data-v-1dcac064 {
+  font-weight: bold;
+}
+.page-width.data-v-1dcac064 {
+  width: 100%;
+}
+.goods-hover-class.data-v-1dcac064 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.background-image.data-v-1dcac064 {
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+}
+/*全局文字大小*/
+/* 屏幕宽度*/
+page.data-v-1dcac064 {
+  font-size: 32rpx;
+  background: #f7f7f7;
+}
+.page-width.data-v-1dcac064 {
+  width: 100%;
+}
+.u-hover-class.data-v-1dcac064 {
+  opacity: .9;
+  background-color: #f7f7f7;
+}
+.safe-area-inset-bottom.data-v-1dcac064 {
+  padding-bottom: 0;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+}
+.bd-limit-buy.data-v-1dcac064 {
+  font-size: 24rpx;
+  margin-left: 12rpx;
+  margin-top: 20rpx;
+  padding: 12rpx 20rpx;
+  border-radius: 5rpx;
+}
+.bd-limit-buy.data-v-1dcac064:first-child {
+  margin-left: 0;
+}
+.bd-limit-buy .bd-limit-buy-img.data-v-1dcac064 {
+  width: 28rpx;
+  height: 28rpx;
+  margin-right: 10rpx;
+}
+.bd-limit-buy .bd-limit-buy-img image.data-v-1dcac064 {
+  width: 100%;
+  height: 100%;
+}
+

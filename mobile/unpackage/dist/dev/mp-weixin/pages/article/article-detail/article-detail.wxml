@@ -1,0 +1,1 @@
+<app-layout vue-id="1d80468e-1" class="data-v-5a5ce1ed" bind:__l="__l" vue-slots="{{['default']}}"><view class="page data-v-5a5ce1ed"><app-rich-text vue-id="{{('1d80468e-2')+','+('1d80468e-1')}}" background="#ffffff" loading="{{loading}}" content="{{list.content}}" class="data-v-5a5ce1ed" bind:__l="__l"></app-rich-text></view></app-layout>

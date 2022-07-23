@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "用户中心",
+  "usingComponents": {
+    "app-copyright": "/components/page-component/app-copyright/app-copyright",
+    "app-user-center-top": "/components/page-component/app-user-center-top/app-user-center-top",
+    "app-account-balance": "/components/page-component/app-account-balance/app-account-balance",
+    "app-my-order": "/components/page-component/app-my-order/app-my-order",
+    "app-vip-card": "/components/page-component/app-vip-card/app-vip-card"
+  }
+}

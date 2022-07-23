@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "满减",
+  "usingComponents": {
+    "u-water-fall": "/pages/full_reduce/u-waterfall",
+    "app-diy-goods-list": "/components/page-component/app-diy-goods-list/app-diy-goods-list",
+    "app-no-goods": "/components/page-component/app-no-goods/app-no-goods",
+    "app-attr": "/components/page-component/app-attr/app-attr"
+  }
+}

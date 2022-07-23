@@ -23,7 +23,7 @@ class CreateWindow {
       webPreferences: {
         contextIsolation: true,
         // More info: /quasar-cli/developing-electron-apps/electron-preload-script
-        preload: path.resolve(process.env.PWD,'./src-electron/startup-preload.js')
+        preload: path.resolve(__dirname, process.env.QUASAR_ELECTRON_PRELOAD)
       }
     })
 
@@ -43,6 +43,7 @@ class CreateWindow {
       icon: path.resolve(__dirname, 'icons/icon.png'), // tray icon
       width: 1024,
       height: 768,
+      resizable:false,
       useContentSize: true,
       frame: false,
       show: true,

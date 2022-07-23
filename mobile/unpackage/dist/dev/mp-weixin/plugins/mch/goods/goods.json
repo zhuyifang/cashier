@@ -1,0 +1,17 @@
+{
+  "navigationBarTitleText": "商品详情",
+  "usingComponents": {
+    "app-goods-banner": "/components/page-component/goods/app-goods-banner",
+    "u-ordinary-list": "/components/page-component/u-goods-list/u-ordinary-list",
+    "u-attr": "/components/page-component/goods/u-attr",
+    "app-goods-full-reduce": "/components/page-component/goods/app-goods-full-reduce",
+    "bd-info": "/components/page-component/goods/bd-info",
+    "bd-xbc": "/components/page-component/goods/bd-xbc",
+    "bd-kb": "/components/page-component/goods/bd-kb",
+    "bd-hc": "/components/page-component/goods/bd-hc",
+    "bd-detail": "/components/page-component/goods/bd-detail",
+    "bd-comments": "/components/page-component/goods/bd-comments",
+    "app-close": "/components/basic-component/app-close/app-close",
+    "app-sell-tip": "/components/page-component/goods/app-sell-tip"
+  }
+}
